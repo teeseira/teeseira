@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tidi!</h1>
-<h3 align="center">A passionate cloud engineer from London, UK.</h3>
+<h3 align="center">A DevOps enthusiast from London, UK.</h3>
 
 - 🛠️ If I can't find a solution, I create one!
 - 🏗️ I cannot build a house, but I can build a pipeline.
 - 🔥 Passionate about leveraging my skills to drive innovation and efficiency.
 - 🚀 Eager to share my fresh perspective and enthusiasm to help organisations optimise their cloud infrastructure, reduce costs, and unlock new possibilities.
-- 🌱 I’m currently learning **DevOps-related technologies.**
+<!-- 🌱 I’m currently self-teaching learning **DevOps-related technologies.** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
