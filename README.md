@@ -1,16 +1,15 @@
-<h1 align="center">Hi 👋, I'm Tidi!</h1>
-<h3 align="center">A DevOps enthusiast from London, UK.</h3>
+<h1 align="center">Hello, I'm Tidi 👋</h1>
+<h3 align="center">Facts about me:</h3>
 
 - 🛠️ If I can't find a solution, I create one!
-- 🏗️ I cannot build a house, but I can build a pipeline.
+- 🏗️ Superpower: Building pipelines and dockerising applications!
 - 🔥 Passionate about leveraging my skills to drive innovation and efficiency.
-- 🚀 Eager to share my fresh perspective and enthusiasm to help organisations optimise their cloud infrastructure, reduce costs, and unlock new possibilities.
-<!-- 🌱 I’m currently self-teaching learning **DevOps-related technologies.** -->
-
-<h3 align="left">Connect with me:</h3>
+- 🚀 Eager to help organisations optimise their cloud infrastructure, reduce costs, and unlock new possibilities.
+- 🌱 Currently learning new technologies and preparing to qualify in more certfications.
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/tidim/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tidim/" height="30" width="40" /></a>
-</p>
+</p> -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
