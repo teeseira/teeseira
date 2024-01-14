@@ -28,5 +28,4 @@
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 
 </p>
-
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=teeseira&exclude_days=Sun%2CSat&hide_total_contributions=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=teeseira&exclude_days=Sun%2CSat&hide_total_contributions=true&hide_longest_streak=true" alt="teeseira" /></p>
