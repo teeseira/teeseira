@@ -29,4 +29,4 @@
 
 </p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=teeseira&hide_border=false)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=teeseira&exclude_days=Sun%2CSat&hide_total_contributions=true&hide_longest_streak=true" alt="" /></a>
