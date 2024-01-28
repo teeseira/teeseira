@@ -2,10 +2,12 @@
 <h3 align="center">Facts about me:</h3>
 
 - 🛠️ If I can't find a solution, I create one!
-- 🏗️ Superpower: Building pipelines and dockerising applications!
+- 🏗️ Superpower: Building pipelines and containerising applications!
 - 🔥 Passionate about leveraging my skills to drive innovation and efficiency.
-- 🚀 Eager to help organisations optimise their cloud infrastructure, reduce costs, and unlock new possibilities.
-- 🌱 Currently learning new technologies and preparing to qualify in more certfications.
+- 🚀 Eager to help organisations deliver their systems faster and cheaper, without compromising quality.
+- 🌱 Currently learning new technologies, reading case studies and preparing for more certifications.
+- 👩🏽‍💻 Check out my exciting blog posts relating to the DevOps realm on [my medium page](https://medium.com/@tidim)!
+
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/tidim/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tidim/" height="30" width="40" /></a>
