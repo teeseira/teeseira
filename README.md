@@ -6,7 +6,6 @@
 - 🔥 Passionate about leveraging my skills to drive innovation and efficiency.
 - 🚀 Eager to help organisations deliver their systems faster and cheaper, without compromising quality.
 - 🌱 Currently learning new technologies, reading case studies and preparing for more certifications.
-- 👩🏽‍💻 Check out my exciting blog posts relating to the DevOps realm on [my medium page](https://medium.com/@tidim)!
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
